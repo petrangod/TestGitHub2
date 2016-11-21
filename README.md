@@ -1,2 +1,4 @@
 # TestGitHub2
-GitHubTutorial
+Hello Everyone there
+
+Test GitHub is Repository showing the bare minimous etc.
